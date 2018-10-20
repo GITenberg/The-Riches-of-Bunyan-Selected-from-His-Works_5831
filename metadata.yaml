@@ -1,5 +1,5 @@
 _repo: The-Riches-of-Bunyan-Selected-from-His-Works_5831
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -34,6 +34,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BR'
 - !lcsh 'Theology, Doctrinal'
+- GITenberg
 tableOfContents: God -- The Trinity -- The Scriptures -- Man -- The law -- Divine
   grace -- Christ -- The Holy Spirit -- Justification by faith -- Conviction of sin
   -- Conversion -- The Christian described -- The Christian race -- Trials of the
